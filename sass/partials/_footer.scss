@@ -1,0 +1,18 @@
+footer {
+	display:block;
+	width:100%;
+	margin:0 0 0;
+	padding:0 0 0;
+	box-sizing: border-box;
+	border-top: 1px solid #e5e5e5;
+	text-align: center;
+	.copyright{
+		width: 1024px;
+		text-align: center;
+		padding: 34px 0 48px 0;
+		margin: 0 auto;
+		h4{
+			color: #979797;
+		}
+	}
+}
